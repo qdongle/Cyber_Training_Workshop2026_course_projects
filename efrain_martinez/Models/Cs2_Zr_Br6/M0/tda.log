@@ -1,0 +1,127 @@
+VODP TDA-HF/CIS RESULTS
+Material: Cs2_Zr_Br6
+Model: M0
+SCF energy: -15479.609936433273 Hartree
+Point charges: 0
+
+State 1
+Converged: True
+Excitation energy: 0.22922299 Hartree
+Excitation energy: 6.237475 eV
+Oscillator strength: 0.000000
+
+Dominant transitions:
+    HOMO (MO 112) -> LUMO (MO 113)
+        amplitude = -0.4053112544
+        relative weight = 32.8554 %
+    HOMO-1 (MO 111) -> LUMO+1 (MO 114)
+        amplitude = 0.4045880248
+        relative weight = 32.7383 %
+    HOMO-2 (MO 110) -> LUMO+2 (MO 115)
+        amplitude = -0.4043656386
+        relative weight = 32.7023 %
+
+State 2
+Converged: True
+Excitation energy: 0.23759904 Hartree
+Excitation energy: 6.465399 eV
+Oscillator strength: 0.000000
+
+Dominant transitions:
+    HOMO-2 (MO 110) -> LUMO+1 (MO 114)
+        amplitude = -0.4907887987
+        relative weight = 48.1747 %
+    HOMO-1 (MO 111) -> LUMO+2 (MO 115)
+        amplitude = -0.4907788784
+        relative weight = 48.1728 %
+    HOMO-14 (MO 98) -> LUMO+1 (MO 114)
+        amplitude = 0.0714684152
+        relative weight = 1.0215 %
+
+State 3
+Converged: True
+Excitation energy: 0.23759904 Hartree
+Excitation energy: 6.465399 eV
+Oscillator strength: 0.000000
+
+Dominant transitions:
+    HOMO (MO 112) -> LUMO+2 (MO 115)
+        amplitude = 0.4915118876
+        relative weight = 48.3168 %
+    HOMO-2 (MO 110) -> LUMO (MO 113)
+        amplitude = -0.4913147346
+        relative weight = 48.2780 %
+    HOMO-14 (MO 98) -> LUMO (MO 113)
+        amplitude = -0.0715790931
+        relative weight = 1.0247 %
+
+State 4
+Converged: True
+Excitation energy: 0.23759904 Hartree
+Excitation energy: 6.465399 eV
+Oscillator strength: 0.000000
+
+Dominant transitions:
+    HOMO (MO 112) -> LUMO+1 (MO 114)
+        amplitude = 0.4917081225
+        relative weight = 48.3554 %
+    HOMO-1 (MO 111) -> LUMO (MO 113)
+        amplitude = 0.4915043749
+        relative weight = 48.3153 %
+    HOMO-13 (MO 99) -> LUMO (MO 113)
+        amplitude = 0.0715275768
+        relative weight = 1.0232 %
+
+State 5
+Converged: True
+Excitation energy: 0.23765149 Hartree
+Excitation energy: 6.466827 eV
+Oscillator strength: 0.000000
+
+Dominant transitions:
+    HOMO-2 (MO 110) -> LUMO+1 (MO 114)
+        amplitude = -0.4908931422
+        relative weight = 48.1952 %
+    HOMO-1 (MO 111) -> LUMO+2 (MO 115)
+        amplitude = 0.4908477767
+        relative weight = 48.1863 %
+    HOMO-14 (MO 98) -> LUMO+1 (MO 114)
+        amplitude = 0.0714615553
+        relative weight = 1.0214 %
+
+SELECTED NATURAL TRANSITION ORBITALS
+
+State: 1
+Reason selected: lowest energy
+Excitation energy: 6.237475 eV
+Oscillator strength: 0.000000
+Dominant NTO pair weight: 0.328986
+Remaining NTO-pair weight: 0.671014
+
+Dominant hole NTO composition:
+    HOMO-2 (MO 110): coefficient = 0.9308, weight = 86.64 %
+    HOMO-1 (MO 111): coefficient = -0.3225, weight = 10.40 %
+    HOMO (MO 112): coefficient = 0.1720, weight = 2.96 %
+
+Dominant electron NTO composition:
+    LUMO+2 (MO 115): coefficient = -0.9003, weight = 81.05 %
+    LUMO+1 (MO 114): coefficient = -0.3843, weight = 14.77 %
+    LUMO (MO 113): coefficient = -0.2041, weight = 4.16 %
+
+State: 3
+Reason selected: brightest
+Excitation energy: 6.465399 eV
+Oscillator strength: 0.000000
+Dominant NTO pair weight: 0.494959
+Remaining NTO-pair weight: 0.505041
+
+Dominant hole NTO composition:
+    HOMO-2 (MO 110): coefficient = 0.9884, weight = 97.70 %
+    HOMO-14 (MO 98): coefficient = 0.1442, weight = 2.08 %
+    HOMO-1 (MO 111): coefficient = 0.0461, weight = 0.21 %
+
+Dominant electron NTO composition:
+    LUMO (MO 113): coefficient = -0.9993, weight = 99.86 %
+    LUMO+2 (MO 115): coefficient = 0.0300, weight = 0.09 %
+    LUMO+33 (MO 146): coefficient = 0.0147, weight = 0.02 %
+

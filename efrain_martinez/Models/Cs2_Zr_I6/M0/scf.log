@@ -1,0 +1,21 @@
+VODP SCF INPUT
+Material: Cs2_Zr_I6
+Model: M0
+XYZ comment: material=Cs2_Zr_I6 model=M0 charge=-2 spin=0 isolated_BX6
+QM atoms: 7
+QM charge: -2
+Basis: def2-SVP
+ECP elements: I, Zr
+Point charges: 0
+Point-charge sum: 0.0000000000
+
+
+VODP SCF SUMMARY
+Status: CONVERGED
+Material: Cs2_Zr_I6
+Model: M0
+Method: DF-RHF
+Total DF-RHF energy: -1826.877878059348 Hartree
+HOMO: MO 82, -0.079089401505 Hartree
+LUMO: MO 83, 0.271671454428 Hartree
+HOMO-LUMO gap: 9.54468913 eV
