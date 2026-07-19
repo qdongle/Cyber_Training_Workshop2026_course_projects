@@ -1,0 +1,21 @@
+VODP SCF INPUT
+Material: Cs2_Ti_Br6
+Model: M0
+XYZ comment: material=Cs2_Ti_Br6 model=M0 charge=-2 spin=0 isolated_BX6
+QM atoms: 7
+QM charge: -2
+Basis: def2-SVP
+ECP elements: none
+Point charges: 0
+Point-charge sum: 0.0000000000
+
+
+VODP SCF SUMMARY
+Status: CONVERGED
+Material: Cs2_Ti_Br6
+Model: M0
+Method: DF-RHF
+Total DF-RHF energy: -16281.234378601210 Hartree
+HOMO: MO 117, -0.080206815548 Hartree
+LUMO: MO 118, 0.301913629684 Hartree
+HOMO-LUMO gap: 10.39802703 eV

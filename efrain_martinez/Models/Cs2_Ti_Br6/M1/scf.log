@@ -1,0 +1,22 @@
+VODP SCF INPUT
+Material: Cs2_Ti_Br6
+Model: M1
+XYZ comment: material=Cs2_Ti_Br6 model=M1 charge=+6 spin=0 explicit_Cs=8 formal_embedding_R2
+QM atoms: 15
+QM charge: 6
+Basis: def2-SVP
+ECP elements: Cs
+Point charges: 4485
+Point-charge sum: -6.0000000000
+
+
+VODP SCF SUMMARY
+Status: CONVERGED
+Material: Cs2_Ti_Br6
+Model: M1
+Method: Embedded DF-RHF
+Stage 1 energy: -16444.544552594460 Hartree
+Total DF-RHF energy: -16444.553205496992 Hartree
+HOMO: MO 149, -0.604716640907 Hartree
+LUMO: MO 150, -0.544100111379 Hartree
+HOMO-LUMO gap: 1.64945980 eV
