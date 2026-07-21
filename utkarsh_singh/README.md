@@ -16,4 +16,4 @@ Time-resolved state energies and ovelap matrices were calculated post TD-DFPT ca
 For pre-NAMD analysis, excitation and dynamical analyses were performed. Electron-phonon couplings were investigated by plotting the influence spectrum and spectral desnity w.r.t. frequency. Non-adiabatic coupling matrix was calculated between the occupied and unoccupied states to determine the extent of non-adibaticity in the system. This part was implemented using Libra code on UB CCR HPC facility.
 
 ## Step 5 - NAMD (Libra)
-#Non-adiabatic molecular dynamics (NAMD) was implemented using the Ehrenfest dynamics, fewest-switches surface hopping (FSSH1/FSSH2), FSSH2 This part was implemented using Libra code on UB CCR HPC facility.
+#Non-adiabatic molecular dynamics (NAMD) was implemented using fewest-switches surface hopping (FSSH/FSSH2), decoherence-induced surface hopping (DISH) algorithms. The relevant algorithms are listed on recipes/ directory. This part was implemented using Libra code on UB CCR HPC facility.
